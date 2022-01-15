@@ -70,7 +70,7 @@ ucts_avro/part-m-00000.avro/")
 
      Let's read csv data from directory /home/cloudera/data/usdata.csv 
      
- ![image](https://user-images.githubusercontent.com/70854976/149635156-da48abb4-38ea-42c9-a0ba-577667726f18.png)
+ ![image](https://user-images.githubusercontent.com/70854976/149635404-2faaa850-3abf-41c2-99e8-3531d8e54478.png)
      
    ##### Now, download avro jar file
 
