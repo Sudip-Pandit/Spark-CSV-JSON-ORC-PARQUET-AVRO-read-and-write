@@ -37,7 +37,7 @@ val df = spark.read.format("orc").load("file:///C:/Users/Sudip/Downloads/CCA-175
 
   # Download spark avro jar 
      
-     download jar hehttps://mvnrepository.com/artifact/com.databricks/spark-avro_2.11/3.2.0re
+     download jar <a href="https://mvnrepository.com/artifact/com.databricks/spark-avro_2.11/3.2.0">W3C organization website</a>
 
   ![image](https://user-images.githubusercontent.com/70854976/149605633-70440e30-ffe3-418c-9794-de561048d1e2.png)
   
