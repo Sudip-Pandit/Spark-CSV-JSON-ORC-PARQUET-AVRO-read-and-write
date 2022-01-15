@@ -23,6 +23,26 @@ tegories-header_part-00000.csv/")
 val df = spark.read.format("json").load("file:///C:/Users/Sudip/Downloads/CCA-175-practice-tests-resource-master/retail_db/categories-header/ca
 tegories-header_part-00000.json/")
 
+# How to read ORC file in spark?
+
+  ![image](https://user-images.githubusercontent.com/70854976/149605512-2beedd04-2aa0-48a3-bc5d-5f50f9568479.png)
+  
+  ![image](https://user-images.githubusercontent.com/70854976/149605531-b65e2375-544a-43d6-8881-0a8883461224.png)
+  
+# Code
+
+val df = spark.read.format("orc").load("file:///C:/Users/Sudip/Downloads/CCA-175-practice-tests-resource-master/retail_db/products_orc/products_orc_part-00000-0af8db31-47a8-417a-91f6-ee94f0128263-c000.snappy.orc/")
+
+# How to read avro file in spark?
+
+  ![image](https://user-images.githubusercontent.com/70854976/149605633-70440e30-ffe3-418c-9794-de561048d1e2.png)
+  
+# Code
+
+val df = spark.read.format("avro").load("file:///C:/Users/Sudip/Downloads/CCA-175-practice-tests-resource-master/retail_db/prod
+ucts_avro/part-m-00000.avro/")
+
+
 
  
 
