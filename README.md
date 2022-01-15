@@ -70,14 +70,14 @@ ucts_avro/part-m-00000.avro/")
 
      Let's read csv data from directory /home/cloudera/data/usdata.csv 
      
-    ![image](https://user-images.githubusercontent.com/70854976/149635004-9f9c0a6e-67bf-4450-a153-a7fdaaba55fd.png)
+ ![image](https://user-images.githubusercontent.com/70854976/149635004-9f9c0a6e-67bf-4450-a153-a7fdaaba55fd.png)
      
    ##### Now, download avro jar file
 
      download avro jar from this link 
      https://mvnrepository.com/artifact/com.databricks/spark-avro_2.11/3.2.0
      
-    ![image](https://user-images.githubusercontent.com/70854976/149634082-8e8e790c-5a1b-45d4-8d3f-501a94c3988f.png)
+ ![image](https://user-images.githubusercontent.com/70854976/149634082-8e8e790c-5a1b-45d4-8d3f-501a94c3988f.png)
      
      
 
