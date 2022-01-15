@@ -66,7 +66,7 @@ val df = spark.read.format("orc").load("file:///C:/Users/Sudip/Downloads/CCA-175
 val df = spark.read.format("avro").load("file:///C:/Users/Sudip/Downloads/CCA-175-practice-tests-resource-master/retail_db/prod
 ucts_avro/part-m-00000.avro/")
 
-# How to read write data into AVRO file format?
+# How to read csv data write data into AVRO file format?
 
      Let's read csv data from directory /home/cloudera/data/usdata.csv 
      
