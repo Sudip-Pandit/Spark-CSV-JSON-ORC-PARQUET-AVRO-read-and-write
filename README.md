@@ -39,17 +39,23 @@ val df = spark.read.format("orc").load("file:///C:/Users/Sudip/Downloads/CCA-175
      
      download avro jar from this link 
      https://mvnrepository.com/artifact/com.databricks/spark-avro_2.11/3.2.0
+     
 ![image](https://user-images.githubusercontent.com/70854976/149633923-50e4e273-9652-45e8-b397-e41088dfeb34.png)
+
 ![image](https://user-images.githubusercontent.com/70854976/149634082-8e8e790c-5a1b-45d4-8d3f-501a94c3988f.png)
+
 ![image](https://user-images.githubusercontent.com/70854976/149634111-24b8f549-d0db-45b4-bf57-f1e81e3b3455.png)
 
--- Have databricks jar already in the directory
--- Now, start spark-sehll pointing to that directory
+     Have databricks jar already in the directory
+     Now, start spark-sehll pointing to that directory
+     
 ![image](https://user-images.githubusercontent.com/70854976/149634308-6f62fa34-6dd9-4bd2-9214-d0db17776b12.png)
 ![image](https://user-images.githubusercontent.com/70854976/149634338-c784f624-f248-4fca-8ac4-4cd1b0859910.png)
 
 ##### Data path 
+
 ![image](https://user-images.githubusercontent.com/70854976/149634445-b9b9a439-d108-4131-8b09-b7453695e7ed.png)
+
 ![image](https://user-images.githubusercontent.com/70854976/149634744-71abb245-c43f-4873-b719-087b02a4185f.png)
 
 
